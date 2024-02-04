@@ -1,3 +1,3 @@
 export default function Pisya() {
-    return <p>Pisya Page</p>;
+  return <p>Pisya Page</p>;
 }
